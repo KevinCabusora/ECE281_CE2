@@ -1,24 +1,24 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company:       USAFA, DFEC
+-- Engineer:		C3C Kevin Cabusora
 --
 -- Create Date:   01:57:08 02/06/2014
--- Design Name:   
+-- Design Name:   Behavioral Decoder Testbench
 -- Module Name:   C:/Users/C16kevin.cabusora/Documents/xilinx projects ece281/CE2/Decoder_Behavioral_testbench.vhd
 -- Project Name:  CE2
--- Target Device:  
--- Tool versions:  
--- Description:   
+-- Target Device: N/A
+-- Tool versions: N/A
+-- Description:   Testbench for Behavioral Decoder Testbench
 -- 
 -- VHDL Test Bench Created by ISE for module: Decoder_Behavioral
 -- 
--- Dependencies:
+-- Dependencies:  N/A
 -- 
--- Revision:
+-- Revision:      N/A
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments: N/A
 --
--- Notes: 
+-- Notes: N/A
 -- This testbench has been automatically generated using types std_logic and
 -- std_logic_vector for the ports of the unit under test.  Xilinx recommends
 -- that these types always be used for the top-level I/O of a design in order

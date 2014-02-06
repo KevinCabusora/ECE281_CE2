@@ -1,20 +1,20 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA, DFEC
+-- Engineer: C3C Kevin Cabusora
 -- 
 -- Create Date:    01:52:55 02/06/2014 
--- Design Name: 
+-- Design Name:    Behavioral Decoder
 -- Module Name:    Decoder_Behavioral - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
+-- Project Name:   CE2: Simple Decoder
+-- Target Devices: N/A
+-- Tool versions:  N/A
+-- Description:    Simple Decoder Using Behavioral Coding
 --
--- Dependencies: 
+-- Dependencies:   N/A
 --
--- Revision: 
+-- Revision:       N/A
 -- Revision 0.01 - File Created
--- Additional Comments: 
+-- Additional Comments: N/A
 --
 ----------------------------------------------------------------------------------
 library IEEE;

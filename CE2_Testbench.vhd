@@ -1,24 +1,24 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company:       USAFA, DFEC
+-- Engineer:	   C3C Kevin Cabusora
 --
 -- Create Date:   17:19:52 07/05/2012
--- Design Name:   
+-- Design Name:   Structural Decoder Testbench
 -- Module Name:   C:/My_Designs/Xilinx_14/CE1_Silva/CE1_testbench.vhd
 -- Project Name:  CE1_Silva
--- Target Device:  
--- Tool versions:  
--- Description:   
+-- Target Device: N/A
+-- Tool versions: N/A
+-- Description:   Testbench for Structural Decoder
 -- 
 -- VHDL Test Bench Created by ISE for module: CE1_vhdl
 -- 
--- Dependencies:
+-- Dependencies:  N/A
 -- 
--- Revision:
+-- Revision:      N/A
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments: N/A
 --
--- Notes: 
+-- Notes: N/A
 -- This testbench has been automatically generated using types std_logic and
 -- std_logic_vector for the ports of the unit under test.  Xilinx recommends
 -- that these types always be used for the top-level I/O of a design in order

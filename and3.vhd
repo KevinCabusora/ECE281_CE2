@@ -1,20 +1,20 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company:        USAFA, DFEC
+-- Engineer:       C3C Kevin Cabusora
 -- 
 -- Create Date:    17:55:10 02/05/2014 
--- Design Name: 
+-- Design Name:    and3 Component
 -- Module Name:    and3 - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
+-- Project Name:   CE2:  Simple Decoder
+-- Target Devices: N/A
+-- Tool versions:  N/A
+-- Description:    and3 Component for Decoder
 --
--- Dependencies: 
+-- Dependencies:   N/A
 --
--- Revision: 
+-- Revision:       N/A
 -- Revision 0.01 - File Created
--- Additional Comments: 
+-- Additional Comments: N/A
 --
 ----------------------------------------------------------------------------------
 library IEEE;
