@@ -50,3 +50,10 @@ ECE281_CE2
 
 Both of the decoders demonstrated the same waveforms in their respective testbenches, and they appear to work.
 
+## What Do Decoders Do?
+
+Decoders use logic gates to take various inputs and output only a single one in the output.
+
+## Documentation
+
+I discussed with C3C Kyle Jonas why the inverter component was not red in the VHDL code, when in fact it did not matter.  For the "What Do Decoders Do," I utilized the website: http://www.ee.surrey.ac.uk/Projects/Labview/Sequential/Course/01-Decoder/decoder1.htm
